@@ -1,0 +1,5 @@
+{
+  "name": "EvilButton Pentest Dashboard",
+  "description": "A professional pentesting wrapper for automated SQL injection testing and reporting.",
+  "requestFramePermissions": []
+}
